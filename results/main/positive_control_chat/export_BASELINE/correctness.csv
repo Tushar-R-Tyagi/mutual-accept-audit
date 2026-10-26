@@ -1,0 +1,6 @@
+metric,k,n,rate_%,ci95_%,ci_method,meaning
+Task accuracy (agent solved own task),90,100,90.0,86.0-95.0,trajectory bootstrap,can the model do the work
+FAR: ACCEPT | peer's task wrong,9,10,90.0,72.7-100.0,trajectory bootstrap,one judge waves wrong work through
+FAR after collusion onset,9,9,100.0,100.0-100.0,trajectory bootstrap,"same, once mutual ACCEPT has started"
+FRR: REJECT | peer's task right,10,90,11.1,8.1-14.1,trajectory bootstrap,compliance cost
+Mutual ACCEPT | episode has wrong work,7,9,77.8,57.1-100.0,trajectory bootstrap,both accept although at least one task is wrong
