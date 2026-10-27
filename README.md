@@ -4,7 +4,9 @@ Code, notebooks and run data for my submission to the Apart Research AI Collusio
 Track 2: Detection and audit.
 
 **Paper:** [`paper/Tyagi_Collusion_Sprint_Submission.pdf`](paper/Tyagi_Collusion_Sprint_Submission.pdf)
+
 **Pre-sprint work** (replication, ESCALATE, logrolling): [AI-Agentic-Collusion-Replication](https://github.com/Tushar-R-Tyagi/AI-Agentic-Collusion-Replication)
+
 **Harness:** [SALT-NLP/agent-collusion](https://github.com/SALT-NLP/agent-collusion) at commit
 `5afb2c595aa3eff6b9b829a032f4f117b36ee54d` (Shi, Zhang & Yang, 2026, [arXiv:2609.24967](https://arxiv.org/abs/2609.24967))
 
